@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ArrayOfAnyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <anyType xsi:type="xsd:string">sdfg, asdf, 17/03/2023, 0 PLN, niewiem, 90 lat doświadczenia w języku maszynowym</anyType>
+  <anyType xsi:type="xsd:string">sdfg, asdf, 17/03/2023, 0 PLN, niewiem, 90 lat doświadczenia w języku maszynowym</anyType>
+  <anyType xsi:type="xsd:string">daw, dadada, 17/03/2023, 3500 PLN, niewiem, starzec</anyType>
+  <anyType xsi:type="xsd:string">daw, dadada, 17/03/2023, 3400 PLN, niewiem, starzec</anyType>
+  <anyType xsi:type="xsd:string">daw, dadada, 17/03/2023, 7600 PLN, nie, stażysta</anyType>
+</ArrayOfAnyType>

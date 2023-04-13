@@ -1,0 +1,11 @@
+C:\Users\Wojtek\source\repos\pracownikmvp\pracownikmvp\bin\Debug\pracownikmvp.exe.config
+C:\Users\Wojtek\source\repos\pracownikmvp\pracownikmvp\bin\Debug\pracownikmvp.exe
+C:\Users\Wojtek\source\repos\pracownikmvp\pracownikmvp\bin\Debug\pracownikmvp.pdb
+C:\Users\Wojtek\source\repos\pracownikmvp\pracownikmvp\obj\Debug\pracownikmvp.csproj.AssemblyReference.cache
+C:\Users\Wojtek\source\repos\pracownikmvp\pracownikmvp\obj\Debug\pracownikmvp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wojtek\source\repos\pracownikmvp\pracownikmvp\obj\Debug\pracownikmvp.Properties.Resources.resources
+C:\Users\Wojtek\source\repos\pracownikmvp\pracownikmvp\obj\Debug\pracownikmvp.csproj.GenerateResource.cache
+C:\Users\Wojtek\source\repos\pracownikmvp\pracownikmvp\obj\Debug\pracownikmvp.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\source\repos\pracownikmvp\pracownikmvp\obj\Debug\pracownikmvp.exe
+C:\Users\Wojtek\source\repos\pracownikmvp\pracownikmvp\obj\Debug\pracownikmvp.pdb
+C:\Users\Wojtek\source\repos\pracownikmvp\pracownikmvp\obj\Debug\pracownik.View.Form1.resources
